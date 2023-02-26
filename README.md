@@ -1,2 +1,2 @@
 # Resolusi
-Repositoeri untuk menyimpan rencana kedepannya
+Repositori untuk menyimpan rencana kedepannya
